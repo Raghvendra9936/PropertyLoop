@@ -13,7 +13,8 @@ A sophisticated AI-powered real estate assistant built to serve landlords, prope
 ## DEMO VIDEO
 ### (Click on the Image)
 
-▶️ [Watch Demo Video](https://raw.githubusercontent.com/Raghvendra9936/PropertyLoop/main/PropertyLoop.mp4)
+[![Watch the video](https://raw.githubusercontent.com/Raghvendra9936/PropertyLoop/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/Raghvendra9936/PropertyLoop/main/PropertyLoop.mp4)
+
 
 
 ## Features
