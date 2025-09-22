@@ -11,12 +11,11 @@
 A sophisticated AI-powered real estate assistant built to serve landlords, property managers, and tenants with accurate, personalized, and contextually relevant information about property management, tenancy law, and maintenance issues.
 
 ## DEMO VIDEO
-### (Click on the Image)
-[![Video Title](https://img.youtube.com/vi/8tDXYwhQdkY/0.jpg)]
 
 https://github.com/user-attachments/assets/841f2b92-63f7-4794-bf73-170067567ece
 
-
+### (Click on the Image)
+[![Video Title](https://img.youtube.com/vi/8tDXYwhQdkY/0.jpg)]
 
 ## Features
 
