@@ -12,6 +12,7 @@ A sophisticated AI-powered real estate assistant built to serve landlords, prope
 
 ## DEMO VIDEO
 ### (Click on the Image)
+[![Video Title](https://img.youtube.com/vi/8tDXYwhQdkY/0.jpg)]
 
 https://github.com/user-attachments/assets/841f2b92-63f7-4794-bf73-170067567ece
 
@@ -169,5 +170,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 - The LangChain and Streamlit communities for their excellent tools
-
-- [![Video Title](https://img.youtube.com/vi/8tDXYwhQdkY/0.jpg)]
