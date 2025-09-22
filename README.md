@@ -12,7 +12,7 @@ A sophisticated AI-powered real estate assistant built to serve landlords, prope
 
 ## DEMO VIDEO
 ### (Click on the Image)
-[![Video Title](https://img.youtube.com/vi/8tDXYwhQdkY/0.jpg)]
+
 <video width="630" height="300" src="https://github.com/Raghvendra9936/PropertyLoop/blob/main/PropertyLoop.mp4" controls></video>
 
 ## Features
@@ -167,3 +167,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 - The LangChain and Streamlit communities for their excellent tools
+
+- [![Video Title](https://img.youtube.com/vi/8tDXYwhQdkY/0.jpg)]
